@@ -180,4 +180,5 @@ Altnatively, you can test the intergation with flink.  Just  follow the step:
   --input alluxio://alluxio-master:19998/LICENSE \
   --output alluxio://alluxio-master:19998/output
 ```
-
+## Acknowledgements  
+This project is based on [Original Repository](https://github.com/MehdiTAZI/BigData-Platform) by [Mehdi TAZI](https://github.com/MehdiTAZI)
