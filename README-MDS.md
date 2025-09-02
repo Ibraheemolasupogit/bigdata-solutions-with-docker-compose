@@ -12,7 +12,7 @@ Docker build files are holded [here](https://github.com/spancer/bigdata-docker-b
 * Flink 1.16.1
 * Iceberg 1.1.0
 * Minio
-## How to Run
+## How to Run 
 
 Git clone the repo and run docker-compose.
 
