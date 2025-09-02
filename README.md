@@ -180,5 +180,4 @@ Altnatively, you can test the intergation with flink.  Just  follow the step:
   --input alluxio://alluxio-master:19998/LICENSE \
   --output alluxio://alluxio-master:19998/output
 ```
-5. ~~Integration alluxio~~
-6. ~~Integration tez~~
+
